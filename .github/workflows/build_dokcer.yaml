@@ -26,5 +26,5 @@ jobs:
       with:
         push: true
         tags: |
-          ghcr.io/PGBSNH20/SimpleWebHalloWorld:latest
-          ghcr.io/PGBSNH20/SimpleWebHalloWorld:${{ github.run_number }}
+          ghcr.io/pgbsnh20/simplewebhalloworld:latest
+          ghcr.io/pgbsnh20/simplewebhalloworld:${{ github.run_number }}
